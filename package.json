@@ -8,5 +8,16 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/imranzxc/drill-prettier-challenge.git"
+  },
+  "bugs": {
+    "url": "https://github.com/imranzxc/drill-prettier-challenge/issues"
+  },
+  "homepage": "https://github.com/imranzxc/drill-prettier-challenge#readme",
+  "devDependencies": {
+    "prettier": "^2.6.2"
+  }
 }
